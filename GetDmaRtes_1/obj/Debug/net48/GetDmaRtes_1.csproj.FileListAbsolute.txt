@@ -1,0 +1,6 @@
+C:\GIT\Automation\Generic\DataMiner Solutions\SLC-AS-DMS_RTEs\GetDmaRtes_1\obj\Debug\net48\GetDmaRtes_1.csproj.AssemblyReference.cache
+C:\GIT\Automation\Generic\DataMiner Solutions\SLC-AS-DMS_RTEs\GetDmaRtes_1\obj\Debug\net48\GetDmaRtes_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\Automation\Generic\DataMiner Solutions\SLC-AS-DMS_RTEs\GetDmaRtes_1\obj\Debug\net48\GetDmaRtes_1.AssemblyInfoInputs.cache
+C:\GIT\Automation\Generic\DataMiner Solutions\SLC-AS-DMS_RTEs\GetDmaRtes_1\obj\Debug\net48\GetDmaRtes_1.AssemblyInfo.cs
+C:\GIT\Automation\Generic\DataMiner Solutions\SLC-AS-DMS_RTEs\GetDmaRtes_1\obj\Debug\net48\GetDmaRtes_1.csproj.CoreCompileInputs.cache
+C:\GIT\Automation\Generic\DataMiner Solutions\SLC-AS-DMS_RTEs\GetDmaRtes_1\obj\Debug\net48\GetDmaRtes_1.sourcelink.json
