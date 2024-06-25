@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("© Skyline Communications")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+baae4d576ab774cefbd6b68a878b150e063fdf13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c554b88f9a5d6cc091f70c690332947caedd5c67")]
 [assembly: System.Reflection.AssemblyProductAttribute("GetDmaRtes_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GetDmaRtes_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

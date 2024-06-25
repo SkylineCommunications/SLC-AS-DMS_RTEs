@@ -45,15 +45,17 @@ Revision History:
 
 DATE		VERSION		AUTHOR			COMMENTS
 
-17/06/2024	1.0.0.1		SSU, Skyline	Initial version
+dd/mm/2024	1.0.0.1		XXX, Skyline	Initial version
 ****************************************************************************
 */
 
-namespace DMS_RTE_1
+namespace DMS_HALF_OPEN_RTE_1
 {
 	using System;
 	using System.Collections.Generic;
 	using Newtonsoft.Json;
+	using System.Globalization;
+	using System.Text;
 	using Skyline.DataMiner.Automation;
 	using Skyline.DataMiner.Core.DataMinerSystem.Automation;
 	using Skyline.DataMiner.Core.DataMinerSystem.Common;
@@ -72,7 +74,6 @@ namespace DMS_RTE_1
 		{
 			try
 			{
-
 				RunSafe(engine);
 			}
 			catch (ScriptAbortException)
@@ -114,15 +115,14 @@ namespace DMS_RTE_1
 
 				TestResult openRtes = new TestResult()
 				{
-					ParameterName = "Open RTES",
+					ParameterName = "Half Open RTES",
 					DmaName = agent.Name,
-					ReceivedValue = rte["Rtes"],
+					ReceivedValue = rte["HalfOpenRtes"],
 				};
-
 				openRteLi.Add(openRtes);
 			}
 
-			engine.AddScriptOutput("Number Open RTEs", JsonConvert.SerializeObject(openRteLi));
+			engine.AddScriptOutput("Number Half Open RTEs", JsonConvert.SerializeObject(openRteLi));
 		}
 
 		private Dictionary<string, string> GetRteInfo(IEngine engine, int dma)
