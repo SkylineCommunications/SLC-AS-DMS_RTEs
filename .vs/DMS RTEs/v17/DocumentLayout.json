@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\GIT\\Automation\\Generic\\DataMiner Solutions\\SLC-AS-DMS_RTEs\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CD7D3E64-24A3-409D-952B-8BDA20613801}|GetDmaRtes{CD7D3E64-24A3-409D-952B-8BDA20613801}|C:\\GIT\\Automation\\Generic\\DataMiner Solutions\\SLC-AS-DMS_RTEs\\GetDmaRtes.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CD7D3E64-24A3-409D-952B-8BDA20613801}|GetDmaRtes{CD7D3E64-24A3-409D-952B-8BDA20613801}|solutionrelative:GetDmaRtes.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B5C8F2-879B-48AA-A1D6-4786CEC30604}|DMS_HALF_OPEN_RTE_1\\DMS_HALF_OPEN_RTE_1.csproj|c:\\git\\automation\\generic\\dataminer solutions\\slc-as-dms_rtes\\dms_half_open_rte_1\\dms_half_open_rte_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B5C8F2-879B-48AA-A1D6-4786CEC30604}|DMS_HALF_OPEN_RTE_1\\DMS_HALF_OPEN_RTE_1.csproj|solutionrelative:dms_half_open_rte_1\\dms_half_open_rte_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CDCAB5-771A-42EC-B2FE-2FD344890570}|DMS_HALF_OPEN_RTE{C8CDCAB5-771A-42EC-B2FE-2FD344890570}|C:\\GIT\\Automation\\Generic\\DataMiner Solutions\\SLC-AS-DMS_RTEs\\DMS_HALF_OPEN_RTE.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C8CDCAB5-771A-42EC-B2FE-2FD344890570}|DMS_HALF_OPEN_RTE{C8CDCAB5-771A-42EC-B2FE-2FD344890570}|solutionrelative:DMS_HALF_OPEN_RTE.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF97711-A913-45D3-B137-1859CCC8556A}|DMS_RTE{8AF97711-A913-45D3-B137-1859CCC8556A}|C:\\GIT\\Automation\\Generic\\DataMiner Solutions\\SLC-AS-DMS_RTEs\\DMS_RTE.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8AF97711-A913-45D3-B137-1859CCC8556A}|DMS_RTE{8AF97711-A913-45D3-B137-1859CCC8556A}|solutionrelative:DMS_RTE.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9CF551A1-2B7A-422F-8CCA-39F8D3058716}|GetDmaRtes_1\\GetDmaRtes_1.csproj|c:\\git\\automation\\generic\\dataminer solutions\\slc-as-dms_rtes\\getdmartes_1\\getdmartes_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CF551A1-2B7A-422F-8CCA-39F8D3058716}|GetDmaRtes_1\\GetDmaRtes_1.csproj|solutionrelative:getdmartes_1\\getdmartes_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C384FD61-DA0C-487E-8E15-08055E7D8712}|DMS_RTE_1\\DMS_RTE_1.csproj|c:\\git\\automation\\generic\\dataminer solutions\\slc-as-dms_rtes\\dms_rte_1\\dms_rte_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C384FD61-DA0C-487E-8E15-08055E7D8712}|DMS_RTE_1\\DMS_RTE_1.csproj|solutionrelative:dms_rte_1\\dms_rte_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89B5C8F2-879B-48AA-A1D6-4786CEC30604}|DMS_HALF_OPEN_RTE_1\\DMS_HALF_OPEN_RTE_1.csproj|c:\\git\\automation\\generic\\dataminer solutions\\slc-as-dms_rtes\\dms_half_open_rte_1\\dms_half_open_rte_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89B5C8F2-879B-48AA-A1D6-4786CEC30604}|DMS_HALF_OPEN_RTE_1\\DMS_HALF_OPEN_RTE_1.csproj|solutionrelative:dms_half_open_rte_1\\dms_half_open_rte_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -79,6 +91,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GetDmaRtes.xml",
+              "DocumentMoniker": "C:\\GIT\\Automation\\Generic\\DataMiner Solutions\\SLC-AS-DMS_RTEs\\GetDmaRtes.xml",
+              "RelativeDocumentMoniker": "GetDmaRtes.xml",
+              "ToolTip": "C:\\GIT\\Automation\\Generic\\DataMiner Solutions\\SLC-AS-DMS_RTEs\\GetDmaRtes.xml",
+              "RelativeToolTip": "GetDmaRtes.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-26T17:25:12.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DMS_HALF_OPEN_RTE.xml",
+              "DocumentMoniker": "C:\\GIT\\Automation\\Generic\\DataMiner Solutions\\SLC-AS-DMS_RTEs\\DMS_HALF_OPEN_RTE.xml",
+              "RelativeDocumentMoniker": "DMS_HALF_OPEN_RTE.xml",
+              "ToolTip": "C:\\GIT\\Automation\\Generic\\DataMiner Solutions\\SLC-AS-DMS_RTEs\\DMS_HALF_OPEN_RTE.xml",
+              "RelativeToolTip": "DMS_HALF_OPEN_RTE.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-26T17:25:04.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DMS_RTE.xml",
+              "DocumentMoniker": "C:\\GIT\\Automation\\Generic\\DataMiner Solutions\\SLC-AS-DMS_RTEs\\DMS_RTE.xml",
+              "RelativeDocumentMoniker": "DMS_RTE.xml",
+              "ToolTip": "C:\\GIT\\Automation\\Generic\\DataMiner Solutions\\SLC-AS-DMS_RTEs\\DMS_RTE.xml",
+              "RelativeToolTip": "DMS_RTE.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-26T17:24:28.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "GetDmaRtes_1.cs",
               "DocumentMoniker": "C:\\GIT\\Automation\\Generic\\DataMiner Solutions\\SLC-AS-DMS_RTEs\\GetDmaRtes_1\\GetDmaRtes_1.cs",
               "RelativeDocumentMoniker": "GetDmaRtes_1\\GetDmaRtes_1.cs",
@@ -91,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DMS_HALF_OPEN_RTE_1.cs",
               "DocumentMoniker": "C:\\GIT\\Automation\\Generic\\DataMiner Solutions\\SLC-AS-DMS_RTEs\\DMS_HALF_OPEN_RTE_1\\DMS_HALF_OPEN_RTE_1.cs",
               "RelativeDocumentMoniker": "DMS_HALF_OPEN_RTE_1\\DMS_HALF_OPEN_RTE_1.cs",
@@ -104,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "DMS_RTE_1.cs",
               "DocumentMoniker": "C:\\GIT\\Automation\\Generic\\DataMiner Solutions\\SLC-AS-DMS_RTEs\\DMS_RTE_1\\DMS_RTE_1.cs",
               "RelativeDocumentMoniker": "DMS_RTE_1\\DMS_RTE_1.cs",
@@ -112,8 +163,7 @@
               "RelativeToolTip": "DMS_RTE_1\\DMS_RTE_1.cs",
               "ViewState": "AQIAAFMAAAAAAAAAAAAqwGkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T20:31:28.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T20:31:28.93Z"
             }
           ]
         }
