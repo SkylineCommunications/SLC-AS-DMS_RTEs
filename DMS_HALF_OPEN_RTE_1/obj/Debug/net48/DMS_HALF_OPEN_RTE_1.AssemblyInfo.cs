@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("© Skyline Communications")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c554b88f9a5d6cc091f70c690332947caedd5c67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1b4bc9c19f6dc4456e40f3f46c58e76aeeef3d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("DMS_HALF_OPEN_RTE_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DMS_HALF_OPEN_RTE_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

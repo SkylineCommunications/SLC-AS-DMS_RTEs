@@ -115,14 +115,14 @@ namespace DMS_HALF_OPEN_RTE_1
 
 				TestResult openRtes = new TestResult()
 				{
-					ParameterName = "Half Open RTES",
+					ParameterName = "DMS_HALF_OPEN_RTE",
 					DmaName = agent.Name,
 					ReceivedValue = rte["HalfOpenRtes"],
 				};
 				openRteLi.Add(openRtes);
 			}
 
-			engine.AddScriptOutput("Number Half Open RTEs", JsonConvert.SerializeObject(openRteLi));
+			engine.AddScriptOutput("result", JsonConvert.SerializeObject(openRteLi));
 		}
 
 		private Dictionary<string, string> GetRteInfo(IEngine engine, int dma)

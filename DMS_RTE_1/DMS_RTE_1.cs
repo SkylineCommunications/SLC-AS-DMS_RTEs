@@ -72,7 +72,6 @@ namespace DMS_RTE_1
 		{
 			try
 			{
-
 				RunSafe(engine);
 			}
 			catch (ScriptAbortException)
@@ -111,10 +110,9 @@ namespace DMS_RTE_1
 			foreach (var agent in agents)
 			{
 				var rte = GetRteInfo(engine, agent.Id);
-
 				TestResult openRtes = new TestResult()
 				{
-					ParameterName = "Open RTES",
+					ParameterName = "DMS_RTE",
 					DmaName = agent.Name,
 					ReceivedValue = rte["Rtes"],
 				};
@@ -122,7 +120,7 @@ namespace DMS_RTE_1
 				openRteLi.Add(openRtes);
 			}
 
-			engine.AddScriptOutput("Number Open RTEs", JsonConvert.SerializeObject(openRteLi));
+			engine.AddScriptOutput("result", JsonConvert.SerializeObject(openRteLi));
 		}
 
 		private Dictionary<string, string> GetRteInfo(IEngine engine, int dma)
