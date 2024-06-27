@@ -112,7 +112,7 @@ namespace DMS_RTE_1
 				var rte = GetRteInfo(engine, agent.Id);
 				TestResult openRtes = new TestResult()
 				{
-					ParameterName = "DMS_RTE",
+					ParameterName = "DMS 24 Hour RTEs",
 					DmaName = agent.Name,
 					ReceivedValue = rte["Rtes"],
 				};

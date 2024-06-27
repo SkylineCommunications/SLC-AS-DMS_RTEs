@@ -115,7 +115,7 @@ namespace DMS_HALF_OPEN_RTE_1
 
 				TestResult openRtes = new TestResult()
 				{
-					ParameterName = "DMS_HALF_OPEN_RTE",
+					ParameterName = "DMS 24 Hour Half Open RTEs",
 					DmaName = agent.Name,
 					ReceivedValue = rte["HalfOpenRtes"],
 				};
