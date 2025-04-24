@@ -5,7 +5,7 @@
 	<Type>Automation</Type>
 	<Author>SKYLINE2\SergioSU</Author>
 	<CheckSets>FALSE</CheckSets>
-	<Folder>DataMiner Health Check/Protocol Scripts</Folder>
+	<Folder>DataMiner Health Check/Helper</Folder>
 
 	<Protocols>
 	</Protocols>
